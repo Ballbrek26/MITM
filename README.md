@@ -1,5 +1,4 @@
-Thanks! Here's the updated **README**, now including information on sniffing HTTPS traffic using **dns2proxy** and **SSLstrip+**.  
-
+ 
 ---
 
 # **MITM Attack Using ARP Poisoning & Packet Sniffing**  
@@ -150,4 +149,3 @@ Developed by **Ahmet Önal** for educational cybersecurity research.
 
 ---
 
-This README now includes **SSLstrip+ and dns2proxy** for HTTPS interception. Let me know if you need further refinements! 🚀
